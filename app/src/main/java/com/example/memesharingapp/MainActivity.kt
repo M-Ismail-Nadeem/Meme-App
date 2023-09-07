@@ -57,7 +57,7 @@ class MainActivity : AppCompatActivity() {
                 Toast.makeText(this, "Something went wrong!", Toast.LENGTH_SHORT).show()
             })
 
-// Add the request to the RequestQueue.
+        // Add the request to the RequestQueue.
         queue.add(jsonObjectRequest)
     }
 }
