@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="Theme.MyApp.MySplash" parent="Theme.SplashScreen">
+        <item name="windowSplashScreenBackground">#CDDC39</item>
+        <item name="windowSplashScreenAnimatedIcon">@drawable/fu</item>
+        <item name="windowSplashScreenAnimationDuration">95000</item>
+        <item name="postSplashScreenTheme">@style/Theme.MemeSharingApp</item>
+    </style>
+
+</resources>
