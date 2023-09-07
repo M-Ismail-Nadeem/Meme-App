@@ -36,7 +36,6 @@ class MainActivity : AppCompatActivity() {
 
         nextMemeButton.setOnClickListener {
             loadMeme()
-//            getInfo()
         }
     }
 
